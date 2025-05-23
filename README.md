@@ -82,7 +82,11 @@ python attendance_gui.py
 
 ## Screenshots
 
-*(Add screenshots of your GUIs here for extra polish!)*
+*![image](https://github.com/user-attachments/assets/a3f88969-3fe8-4db8-b902-fad70c04b02b)*
+*![image](https://github.com/user-attachments/assets/0fe3bc35-86f3-4e14-b708-6289db383702)*
+*![image](https://github.com/user-attachments/assets/0f965eac-a81b-4bb5-b09a-46367a22f64f)*
+
+
 
 ---
 
