@@ -100,4 +100,7 @@ python attendance_gui.py
 
 ## License
 
-MIT License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+For any questions or issues, feel free to contact **yaswanthkoppanathi24@gmail.com**.
