@@ -96,4 +96,4 @@ python attendance_gui.py
 
 ## License
 
-MIT License (or your preferred license)
+MIT License
